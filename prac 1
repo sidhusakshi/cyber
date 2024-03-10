@@ -1,0 +1,36 @@
+Practical No : 1 
+Aim : Exploring and Building a verification lab for Penerating Testing (Kali Linux). Step 1: Install VMware Workstation Player 16. Double Click and install it. 
+
+Accept the terms and conditions and click on next Button
+
+ Rajeev Katara  CS21006 
+Click on next 
+
+ Rajeev Katara  CS21006 
+After Sucessful installation of VMware Workstation.  
+Open you Workstation and click on 2 Option i.e Open a Virtual Machine 
+Now give a name to you Virtual Machine and redirect to the folder where your .ios file is located.
+ Rajeev Katara  CS21006 
+
+Now select the default setting and click on next button.
+
+ Rajeev Katara  CS21006 
+
+Now a Wizard will open where in you need to enter the product key for Windows XP.
+ Rajeev Katara  CS21006 
+
+
+ Rajeev Katara  CS21006
+
+ Rajeev Katara  CS21006
+
+ Rajeev Katara  CS21006
+Kali Linux Installation: After successfully installation of Windows XP. We need to now install Kali  license by following the same process.
+
+ Rajeev Katara  CS21006 
+
+ Rajeev Katara  CS21006
+Metasploit: After successfully installation of Kali Linux. We need to now install Kali license by  following the same process. 
+Enter the login id as msfadmin and password msfadmin.
+
+ Rajeev Katara  CS21006 
